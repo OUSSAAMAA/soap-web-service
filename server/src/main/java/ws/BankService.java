@@ -6,7 +6,7 @@ import jakarta.jws.WebService;
 
 import java.util.Date;
 import java.util.List;
-@WebService(serviceName="currencyConverterWS")
+@WebService(serviceName="BankConverterWS")
 public class BankService {
     public BankService() {}
 
